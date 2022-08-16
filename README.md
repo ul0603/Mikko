@@ -1,4 +1,4 @@
 - Selkeä otsikko
 - hakubaari
-- scrollibaari
+- itseasiassa hieno etusivu
 - tuotteet
